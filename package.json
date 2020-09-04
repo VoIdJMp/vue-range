@@ -61,7 +61,7 @@
     "uglify-js": "^3.4.9",
     "zlib": "^1.0.5"
   },
-  "homepage": "https://github.com/xwpongithub/vue-range-slider",
+  "homepage": "https://github.com/VoIdJMp/vue-range",
   "keywords": [
     "javascript",
     "rollup",
@@ -74,7 +74,7 @@
   "name": "vue-range-component",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/xwpongithub/vue-range-slider.git"
+    "url": "git+ssh://git@github.com:VoIdJMp/vue-range.git"
   },
   "scripts": {
     "build": "npx gulp"

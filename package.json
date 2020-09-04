@@ -1,0 +1,83 @@
+{
+  "_from": "https://github.com/xwpongithub/vue-range-slider/tarball/master",
+  "_id": "vue-range-component@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-ITKpsY0LiRBMUhnOVJO6Ft/bHUSH8F+yZ+gy9TNq3ayU2+aYbEPGuz1AbBIDUZXpmoAmEQER0mxEAGK1Gc+qMQ==",
+  "_location": "/vue-range-component",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://github.com/xwpongithub/vue-range-slider/tarball/master",
+    "rawSpec": "https://github.com/xwpongithub/vue-range-slider/tarball/master",
+    "saveSpec": "https://github.com/xwpongithub/vue-range-slider/tarball/master",
+    "fetchSpec": "https://github.com/xwpongithub/vue-range-slider/tarball/master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://github.com/xwpongithub/vue-range-slider/tarball/master",
+  "_shasum": "673b645f1104597e6320c0bb1a1cb26f0483fd39",
+  "_spec": "https://github.com/xwpongithub/vue-range-slider/tarball/master",
+  "_where": "D:\\Projects\\frontend-alifshop-nuxt",
+  "author": {
+    "name": "xwpongithub"
+  },
+  "browserslist": [
+    "iOS >= 7",
+    "Android >= 4.0",
+    "last 2 versions",
+    "> 1%",
+    "not ie <= 8"
+  ],
+  "bugs": {
+    "url": "https://github.com/xwpongithub/vue-range-slider/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A range slider component based on vue (Vue滑块组件).",
+  "devDependencies": {
+    "@babel/core": "^7.1.2",
+    "@babel/plugin-transform-runtime": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "autoprefixer": "^9.1.5",
+    "babel-loader": "^8.0.4",
+    "cssnano": "^4.1.4",
+    "dot-prop": ">=5.1.1",
+    "gulp": "^3.9.1",
+    "gulp-header": "^2.0.5",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-stylus": "^2.7.0",
+    "kind-of": ">=6.0.3",
+    "lodash": ">=4.17.19",
+    "postcss": "^7.0.5",
+    "postcss-pxtorem": "^4.0.1",
+    "rollup": "^0.66.6",
+    "rollup-plugin-babel": "^4.0.3",
+    "rollup-plugin-json": "^3.1.0",
+    "stylus": "^0.54.5",
+    "uglify-js": "^3.4.9",
+    "zlib": "^1.0.5"
+  },
+  "homepage": "https://github.com/xwpongithub/vue-range-slider",
+  "keywords": [
+    "javascript",
+    "rollup",
+    "vuejs",
+    "stylus"
+  ],
+  "license": "MIT",
+  "main": "dist/vue-range-slider.js",
+  "module": "dist/vue-range-slider.esm.js",
+  "name": "vue-range-component",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/xwpongithub/vue-range-slider.git"
+  },
+  "scripts": {
+    "build": "npx gulp"
+  },
+  "version": "1.0.3"
+}
